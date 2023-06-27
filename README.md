@@ -3,8 +3,8 @@
 
 
 ## Stats  
-![SeungminYeom](https://github-readme-stats.vercel.app/api?username=SeungminYeom&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungminYeom&layout=compact&theme=omni&card_width=468)
+![SeungminYeom](https://github-readme-stats.vercel.app/api?username=SeungminYeom&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungminYeom&layout=compact&theme=dark&card_width=468)
 
 <br/><br/><br/><br/>
 
