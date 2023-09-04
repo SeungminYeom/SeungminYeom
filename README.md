@@ -15,6 +15,9 @@
 
 <br/><br/><br/><br/>
 
+## Working
+- 모바일앱개발협동조합(인턴) 23.07 ~
+
 <!--
 **yujini1121/yujini1121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
