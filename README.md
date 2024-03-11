@@ -19,7 +19,7 @@
 <br/><br/>
 
 ## Working
-- 모바일앱개발협동조합(현장 실습) 2023.9 ~ 2024.1
+- 모바일앱개발협동조합(현장실습) 2023.9 ~ 2024.1
 
 <!--
 **yujini1121/yujini1121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
