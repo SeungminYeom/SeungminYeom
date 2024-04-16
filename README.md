@@ -1,12 +1,13 @@
 <!--![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=It's%20me&fontSize=90&fontColor=ffffff)
 <br/><br/><br/><br/>-->
 
-
+<!--
 ## Stats  
 ![SeungminYeom](https://github-readme-stats.vercel.app/api?username=SeungminYeom&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungminYeom&layout=compact&theme=dark&card_width=468)
 
 <br/><br/>
+-->
 
 ## Study
 <img src="https://img.shields.io/badge/Unity -000000?style=for-the-badge&logo=Unity #&logoColor=white"/></a>
@@ -17,7 +18,6 @@
 4.22 / 4.5 <br/>
 
 <br/><br/>
-
 ## Working
 - 모바일앱개발협동조합(현장실습) 2023.9 ~ 2024.1
 
